@@ -1,3 +1,7 @@
 .cart-container {
+  /* width: 100%; */
+  position: sticky;
+  top: 100px;
   background-color: rgba(255, 153, 0, 0.3);
+  padding: 10px;
 }
